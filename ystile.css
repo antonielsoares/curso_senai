@@ -1,5 +1,6 @@
 * body{
-    background-color: aqua;
+    background-color: rgb(224, 236, 236);
+    max-width: 1800px;
 }
 h2{
     text-align: center;
@@ -12,5 +13,18 @@ h2{
     background-image: url(./img/TRELLO.png);
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: center;
     margin: 0 auto;
+}
+.txt{
+    font-size: initial;
+    width: 100%;
+    margin: 43px 0;
+    text-align: center;
+    font-size: 32px;
+}
+b{
+    font-size: 35px;
+    
+    color: blue;
 }
